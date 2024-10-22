@@ -14,3 +14,5 @@ Este é um projeto de **calculadora simples** criado com **HTML**, **CSS**, e **
 - **HTML5**: Estrutura da calculadora.
 - **CSS3**: Estilização e layout responsivo.
 - **JavaScript**: Lógica para cálculos e interativid
+
+![image](https://github.com/user-attachments/assets/c0ef5126-0bf1-48bb-bcd9-14989a88ff3f)
